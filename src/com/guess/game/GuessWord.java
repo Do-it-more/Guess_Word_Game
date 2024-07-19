@@ -1,4 +1,4 @@
-package com.snake.game;
+package com.guess.game;
 
 import java.util.ArrayList;
 import java.util.Arrays;
